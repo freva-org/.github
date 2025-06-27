@@ -20,7 +20,7 @@ pip install freva-deployment
 deploy-freva cmd --local
 ```
 
-📖 Full instructions in the [Freva Deployment Documentation](https://freva-org.github.ip/freva-admin)
+📖 Full instructions in the [Freva Deployment Documentation](https://freva-org.github.io/freva-admin/)
 
 ## 🧑‍🔬 Who Uses Freva?
 
